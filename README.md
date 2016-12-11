@@ -1,4 +1,4 @@
-{"Status":"OK","Universities":[
+{"Status":"OK","Team":[
 {"UniversityAddress":"7","UniversityID":7,"UniversityImageURL":"cr.png","UniversityName":"Cristiano Ronaldo","UniversityStudentCount":"February 5, 1985","UniversityURL":"www.realmadrid.com/en/football/squad/cristiano-ronaldo-dos-santos"},
 {"UniversityAddress":"9","UniversityID":9,"UniversityImageURL":"bz.png","UniversityName":"Karim Benzema","UniversityStudentCount":"December 19, 1987","UniversityURL":"www.realmadrid.com/en/football/squad/karim-benzema"},
 {"UniversityAddress":"11","UniversityID":11,"UniversityImageURL":"bale.png","UniversityName":"Gareth Bale","UniversityStudentCount":"July 16, 1989","UniversityURL":"www.realmadrid.com/en/football/squad/gareth-bale"},
