@@ -5,5 +5,5 @@
 {"PlayerNumber":"10","UniversityID":10,"PlayerPic":"james.png","PlayerName":"James Rodriguez","PlayerDOB":"July 12, 1991","PlayerURL":"www.realmadrid.com/en/football/squad/james-rodriguez"},
 {"PlayerNumber":"4","UniversityID":4,"PlayerPic":"ramos.png","PlayerName":"Sergio Ramos","PlayerDOB":"March 30, 1986","PlayerURL":"www.realmadrid.com/en/football/squad/sergio-ramos-garcia"},
 {"PlayerNumber":"12","UniversityID":12,"PlayerPic":"marcelo.png","PlayerName":"Marcelo","PlayerDOB":"May 12, 1988","PlayerURL":"www.realmadrid.com/en/football/squad/marcelo-vieira-da-silva"},
-{"PlayerNumber":"22","UniversityID":22,"PlayerPic":"isco.png","PlayerName":"ISCO","PlayerDOB":"April 21, 1992","PlayerURL":"www.realmadrid.com/en/football/squad/francisco-roman--alarcon"},
+{"PlayerNumber":"22","UniversityID":"Midfielder","PlayerPic":"isco.png","PlayerName":"ISCO","PlayerDOB":"April 21, 1992","PlayerURL":"www.realmadrid.com/en/football/squad/francisco-roman--alarcon"},
 {"PlayerNumber":"19","UniversityID":19,"PlayerPic":"mo.png","PlayerName":"MODRIC","PlayerDOB":"September 9, 1985","PlayerURL":"www.realmadrid.com/en/football/squad/luka-modric"}]}
