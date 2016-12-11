@@ -5,5 +5,5 @@
 {"UniversityAddress":"10","UniversityID":10,"UniversityImageURL":"james.png","UniversityName":"James Rodriguez","UniversityStudentCount":"July 12, 1991","UniversityURL":"www.realmadrid.com/en/football/squad/james-rodriguez"},
 {"UniversityAddress":"4","UniversityID":4,"UniversityImageURL":"ramos.png","UniversityName":"Sergio Ramos","UniversityStudentCount":"March 30, 1986","UniversityURL":"www.realmadrid.com/en/football/squad/sergio-ramos-garcia"},
 {"UniversityAddress":"12","UniversityID":12,"UniversityImageURL":"marcelo.png","UniversityName":"Marcelo","UniversityStudentCount":"May 12, 1988","UniversityURL":"www.realmadrid.com/en/football/squad/marcelo-vieira-da-silva"},
-{"UniversityAddress":"22","UniversityID":12,"UniversityImageURL":"Isco.png","UniversityName":"ISCO","UniversityStudentCount":"April 21, 1992","UniversityURL":"www.realmadrid.com/en/football/squad/francisco-roman--alarcon"},
+{"UniversityAddress":"22","UniversityID":22,"UniversityImageURL":"isco.png","UniversityName":"ISCO","UniversityStudentCount":"April 21, 1992","UniversityURL":"www.realmadrid.com/en/football/squad/francisco-roman--alarcon"},
 {"UniversityAddress":"19","UniversityID":19,"UniversityImageURL":"mo.png","UniversityName":"MODRIC","UniversityStudentCount":"September 9, 1985","UniversityURL":"www.realmadrid.com/en/football/squad/luka-modric"}]}
