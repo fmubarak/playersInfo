@@ -1,5 +1,5 @@
 {"Status":"OK","Team":[
-{"PlayerNumber":"7","Position":"Forward","PlayerPic":"cr.png","PlayerName":"Cristiano Ronaldo","PlayerDOB":"February 5, 1985","PlayerURL":"www.realmadrid.com/en/football/squad/cristiano-ronaldo-dos-santos"},
+{"PlayerNumber":"Forward","Position":"Forward","PlayerPic":"cr.png","PlayerName":"Cristiano Ronaldo","PlayerDOB":"February 5, 1985","PlayerURL":"www.realmadrid.com/en/football/squad/cristiano-ronaldo-dos-santos"},
 {"PlayerNumber":"9","Position":"Forward","PlayerPic":"bz.png","PlayerName":"Karim Benzema","PlayerDOB":"December 19, 1987","PlayerURL":"www.realmadrid.com/en/football/squad/karim-benzema"},
 {"PlayerNumber":"11","Position":"Forward","PlayerPic":"bale.png","PlayerName":"Gareth Bale","PlayerDOB":"July 16, 1989","PlayerURL":"www.realmadrid.com/en/football/squad/gareth-bale"},
 {"PlayerNumber":"10","Position":"Midfielder","PlayerPic":"james.png","PlayerName":"James Rodriguez","PlayerDOB":"July 12, 1991","PlayerURL":"www.realmadrid.com/en/football/squad/james-rodriguez"},
